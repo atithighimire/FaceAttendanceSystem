@@ -10,7 +10,8 @@ for detection, training, recognition and attendance parts. Face Attendance Syste
 in traditional attendance process.
 
 
-Tools Used Front-end:
+Tools Used 
+
 • Programming language: Python with Tkinter library Back-end:
 • Programming Language: Python, OpenCV
 • Database: MongoDB
