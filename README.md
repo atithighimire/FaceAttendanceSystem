@@ -12,7 +12,10 @@ in traditional attendance process.
 
 Tools Used 
 
-• Programming language: Python with Tkinter library Back-end:
+Front-end:
+• Programming language: Python with Tkinter library 
+
+Back-end:
 • Programming Language: Python, OpenCV
 • Database: MongoDB
 
